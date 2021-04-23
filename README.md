@@ -16,30 +16,30 @@ Python Programming, Image Processing, Embedded C Programming.
 
 ### Task Description
 
-* Stage-1
-** Task0
+##### Stage-1
+* Task0
 The aim of this task was to setup the team for further tasks in the competition. This task specifically included installing Python and relevant libraries and get
 comfortable with basics of image/video processing in Python.
 
-** Task1
+* Task1
 Task 1 was a purely software based programming task. This task specifically included image processing problems inorder to build upon the concepts and basics of image processing.
 
-** Task2
+* Task2
 This task involved printing the flex and setting up the Arena for Theme Implementation
 
 All the teams who qualified the stage-1 received robotics kit by IIT,Bombay
 
-* Stage-2
-** Hardware Testing
+##### Stage-2
+* Hardware Testing
 The aim of this theme was to test the hardware components that we received for implementation.
 
-** Task3
+* Task3
 The aim of this task is to get you started with implementing the concepts learnt in Stage 1, using the hardware received in the kit as per the Rule book.
 
-** Task4
+* Task4
 The aim of this task was to build the robot and submit the working video of the same.
 
-** Task5
+* Task5
 This was the final task and its aim was to get the maximum score. The team whose robot completed the tasks in minimum time and minimum penality got maximum score
 
 
