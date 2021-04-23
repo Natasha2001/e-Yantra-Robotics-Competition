@@ -7,16 +7,39 @@ e-Yantra is a project sponsored by MHRD, Government of India, under the National
 The idea is to build a robot to provide relief aid to the affected district or cities. The relief aid to be received by the affected areas is communicated wirelessly to the robot using a camera. Once the robot has
 identified the affected area, moving the relief aid as close as possible to the affected district or city is the primary task of the Supply Bot.
 
-<img src="Resources/theme_img.png" width="250" height="500">
+<img src="Resources/theme_img.png" width="1300" height="500">
 
 The challenges in the theme include: designing and building a robot with basic components given,
 Python Programming, Image Processing, Embedded C Programming.
 
 
 
-#### Task Description
+### Task Description
 
-##### Task0
+* Stage-1
+** Task0
+The aim of this task was to setup the team for further tasks in the competition. This task specifically included installing Python and relevant libraries and get
+comfortable with basics of image/video processing in Python.
 
+** Task1
+Task 1 was a purely software based programming task. This task specifically included image processing problems inorder to build upon the concepts and basics of image processing.
+
+** Task2
+This task involved printing the flex and setting up the Arena for Theme Implementation
+
+All the teams who qualified the stage-1 received robotics kit by IIT,Bombay
+
+* Stage-2
+** Hardware Testing
+The aim of this theme was to test the hardware components that we received for implementation.
+
+** Task3
+The aim of this task is to get you started with implementing the concepts learnt in Stage 1, using the hardware received in the kit as per the Rule book.
+
+** Task4
+The aim of this task was to build the robot and submit the working video of the same.
+
+** Task5
+This was the final task and its aim was to get the maximum score. The team whose robot completed the tasks in minimum time and minimum penality got maximum score
 
 
